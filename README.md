@@ -23,18 +23,7 @@ The cleaning process includes:
 
 The final cleaned dataset is provided for reuse and further analysis.
 
----
 
-breweries-of-the-world/
-├── data/
-│   └── breweries_cleaned_all.csv
-├── processed/
-│   └── cleaned.ipynb
-├── visuals/                # coming soon
-│   ├── plots/
-│   │   └── visualisations-and-interpretations/
-│   └── notes/
-│       └── challenges-and-limitations/
-├── README.md
+
 
 
