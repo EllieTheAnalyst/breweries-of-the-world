@@ -36,7 +36,7 @@ The final cleaned dataset is provided for reuse and further analysis.
 A Streamlit dashboard is included in:
 
 ```
-/streamlit_app
+/app.py
 ```
 
 The dashboard allows users to:
