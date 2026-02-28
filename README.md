@@ -2,7 +2,7 @@
 
 ## 🌍 Live Dashboard
 
-🔗 https://your-app-name.streamlit.app
+https://global-breweries-dashboard.streamlit.app/
 
 ---
 
