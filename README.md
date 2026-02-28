@@ -6,7 +6,7 @@ The project documents the data cleaning process and provides a cleaned, analysis
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - Global coverage of breweries across multiple countries  
 - Emphasis on data cleaning, standardisation, and validation  
@@ -17,7 +17,7 @@ This project is structured to evolve over time, documenting both technical progr
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 The cleaning process includes:
 
@@ -31,7 +31,7 @@ The final cleaned dataset is provided for reuse and further analysis.
 
 ---
 
-## 🖥️ Interactive Dashboard
+## Interactive Dashboard
 
 A Streamlit dashboard is included in:
 
@@ -50,7 +50,7 @@ See the `streamlit_app/README.md` for instructions on running the app locally.
 
 ---
 
-## 🔎 Current Learnings & Observations
+## Current Learnings & Observations
 
 During development and visual exploration, several important insights emerged:
 
@@ -63,7 +63,7 @@ These findings highlight the importance of critical validation when working with
 
 ---
 
-## ⚠️ Known Issues (Work in Progress)
+## Known Issues (Work in Progress)
 
 The following issues are currently being investigated:
 
