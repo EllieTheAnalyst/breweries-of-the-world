@@ -46,7 +46,7 @@ The dashboard allows users to:
 - Compare brewery counts across countries  
 - Analyse brewery type composition  
 
-See the `streamlit_app/README.md` for instructions on running the app locally.
+See the `app/app-README.md` for instructions on running the app locally.
 
 ---
 
