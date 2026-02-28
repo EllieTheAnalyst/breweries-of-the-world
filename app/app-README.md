@@ -45,7 +45,7 @@ http://localhost:8501
 
 ---
 
-## 📊 Features
+## Features
 
 - Country + brewery type filters
 - Interactive geographic map
@@ -54,7 +54,7 @@ http://localhost:8501
 
 ---
 
-## 🗺️ Known Data Issues (In Progress)
+## Known Data Issues (In Progress)
 
 - Some brewery locations may appear in incorrect positions (data validation ongoing).
 - Country coverage varies depending on dataset completeness.
