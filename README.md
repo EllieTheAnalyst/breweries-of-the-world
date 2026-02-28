@@ -1,6 +1,6 @@
 # Breweries of the World 🍺
 
-## 🌍 Live Dashboard
+## Live Dashboard
 
 https://global-breweries-dashboard.streamlit.app/
 
